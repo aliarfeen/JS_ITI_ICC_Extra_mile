@@ -14,5 +14,5 @@ while(i<n){
 isplaindrom? console.log(`${str} is a plaindrom`):console.log(`${str} isn't a plaindrom`);
 }
 
-findPalindrom("ali");
-findPalindrom("azza");
+findPalindrom("Ali");
+findPalindrom("Emme");
