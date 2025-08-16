@@ -18,3 +18,5 @@ function getDashboardData() {
     setTimeout(() => resolve("Dashboard data"), 500);
   });
 }
+
+isUserLoggedIn('ali');
